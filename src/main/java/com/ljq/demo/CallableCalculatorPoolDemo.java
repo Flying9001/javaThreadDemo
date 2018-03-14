@@ -1,6 +1,6 @@
 package com.ljq.demo;
 
-import com.ljq.utils.CallableCalculator;
+import com.ljq.thread.CallableCalculator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

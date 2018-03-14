@@ -1,6 +1,6 @@
 package com.ljq.demo;
 
-import com.ljq.utils.ThreadUtil;
+import com.ljq.thread.ThreadUtil;
 
 /**
  * @Desccription: Thread demo

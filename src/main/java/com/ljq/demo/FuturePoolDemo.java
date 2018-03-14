@@ -1,6 +1,6 @@
 package com.ljq.demo;
 
-import com.ljq.utils.TaskCallable;
+import com.ljq.thread.TaskCallable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

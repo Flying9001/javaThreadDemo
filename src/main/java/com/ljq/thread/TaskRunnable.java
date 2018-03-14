@@ -1,4 +1,4 @@
-package com.ljq.utils;
+package com.ljq.thread;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
 package com.ljq.demo;
 
-import com.ljq.utils.SyncTask;
+import com.ljq.task.SyncTask;
 
 /**
  * @description: 线程同步测试

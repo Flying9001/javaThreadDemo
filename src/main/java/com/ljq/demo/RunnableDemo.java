@@ -1,6 +1,6 @@
 package com.ljq.demo;
 
-import com.ljq.utils.RunnableUtil;
+import com.ljq.thread.RunnableUtil;
 
 /**
  * @Desccription: runnable demo
