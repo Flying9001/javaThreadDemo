@@ -37,7 +37,7 @@ public class CallableCalculatorPoolDemo {
             logback.debug("sum3: " + sum1);
 
             // 关闭线程池(也可以不关闭)
-//            service.shutdown();
+            service.shutdown();
 
 
         } catch (InterruptedException e) {
